@@ -1,0 +1,59 @@
+.div-1 {
+    background-color: #B5DDF7;
+    border: 3px solid #000;
+    border-radius: 10px;
+    padding: 10px 0px 0px 0px;
+    display: flex;
+    width: 85%;
+    height: 420px;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+
+.alerta {
+    background-image: url(https://thumbs.dreamstime.com/b/bal%C3%B5es-do-alfabeto-arco-%C3%ADris-que-formam-as-esta%C3%A7%C3%B5es-da-palavra-130661392.jpg);
+}
+
+.primavera {
+    background-image: url(https://i.pinimg.com/236x/7b/db/c8/7bdbc83a725bb9361aa5a33463d7311c.jpg);
+    border: 3px solid #eb6885;
+    width: 12%;
+    height: 320px;
+    background-color: #B5DDF7;
+    
+}
+
+.verao {
+    background-image: url(https://i.pinimg.com/236x/fc/37/eb/fc37eb6f38f7721ec90c8a65fe6c91e2.jpg);
+    border: 3px solid #faa21e;
+    height: 360px;
+    width: 12%;
+}
+
+.outono {
+    background-image: url(https://i.pinimg.com/236x/1b/59/22/1b592213419bc2f03ba7afecd70eb48d.jpg);
+    border: 3px solid #d64207;
+    height: 350px;
+    width: 12%;
+}
+
+.inverno {
+    background-image: url(https://i.pinimg.com/564x/e7/30/61/e730610d6e27abcfece3d61daf8f3b30.jpg);
+    border: 3px solid #babcbd;
+    width: 29%;
+    height: 550px;
+}
+
+
+.Geral{
+    background-color: #B5DDF7;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
